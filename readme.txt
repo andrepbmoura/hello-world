@@ -1,3 +1,2 @@
 Hello!
-hello, I will learn how to code =)
-This is super fun! 
+This is a test from AWS Cloud9 IDE. 
